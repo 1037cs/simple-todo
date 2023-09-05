@@ -24,6 +24,6 @@ running follow these simple example steps.
    npm start
    ```
 
-   ### Usage
+### Usage
 
 Add your TODO with input. Manage your todos with footer-panel. You can filter TODO's or delete completed TODO's. 
